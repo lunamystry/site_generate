@@ -4,6 +4,32 @@ This page lists topic ideas we can consider for our future meetups. Please
 submit a [pull request](https://github.com/gautengpug/site_generate/pulls) to
 add your idea.
 
+  * __Managing the Dlab with Python__ (_by [Mandla Mbuli](http://mandla.me)_)
+
+    I am imagining a multi-part talk where I talk about how I used Python in
+    the past 3 years to help me in managing the Computer Lab. The topics would
+    be as follows:
+
+    1. __Managing the Dlab with Python part 1: *Salt*__
+       This is a talk about how to set up and work with salt and how I used it
+       to manage Windows and Ubuntu machine in the lab.
+
+    2. __Managing the Dlab with Python part 2: *Python and the LDAP*__
+       This is a talk on how I used Python to shield me from working with LDAP
+       commands a lot.
+
+    3. __Managing the Dlab with Python part 3: *RESTlike Flask interface*__
+       This is talk about how I used Flask to make a RESTlike interface which I
+       use to manage users and computer information in the lab and to generate
+       some things which I need for the lab.
+
+    4. __Managing the Dlab with Python part 4: *Fabric for deployments*__
+       Using Fabric to deploy my website
+
+    5. __Managing the Dlab with Python part 5: *Descriptors and Validation*__
+       This talk is about how I discovered Descriptors and I used them to write
+       the logic for validating user information in the eieldap package.
+
   * decorators
   * regular expressions
   * data structures
